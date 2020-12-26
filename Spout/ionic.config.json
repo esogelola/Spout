@@ -1,0 +1,7 @@
+{
+  "name": "Spout",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

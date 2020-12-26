@@ -1,0 +1,11 @@
+{
+  "name": "spout",
+  "version": "1.0.0",
+  "description": "Cross-platform messaging app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Sogelola",
+  "license": "ISC"
+}
