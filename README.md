@@ -9,6 +9,6 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fspout.web.app)
 ![GitHub all releases](https://img.shields.io/github/downloads/esogelola/spout/total)
 [![GitHub contributors](https://img.shields.io/github/contributors/esogelola/Spout.svg?style=flat)](https://github.com/esogelola/Spout/graphs/contributors)
-[![LICENSE](https://img.shields.io/github/license/esogelola/spout)](https://github.com/esogelola/spout/blob/dev/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/esogelola/spout)](https://github.com/esogelola/spout/blob/master/LICENSE)
 
 ---
