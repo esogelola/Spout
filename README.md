@@ -12,3 +12,10 @@
 [![LICENSE](https://img.shields.io/github/license/esogelola/spout)](https://github.com/esogelola/spout/blob/master/LICENSE)
 
 ---
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/esogelola/Spout/master/assets/Login.png" width="30%" />
+   <img src="https://raw.githubusercontent.com/esogelola/Spout/master/assets/Register.png" width="30%" />
+    <img src="https://raw.githubusercontent.com/esogelola/Spout/master/assets/Forgot.png" width="30%" />
+   
+</p>
