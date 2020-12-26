@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://esogelola.com/" ><span width="100px">:whale: </span></a>
+    <a href="https://www.kahla.app/"><img width="100px" src="https://raw.githubusercontent.com/esogelola/spout/assets/SPOUT.png"></a>
     <h3 align="center">Spout</h3>
     <p align="center">Spout is a cross-platform messaging app.<p>
 </p>

@@ -4,8 +4,11 @@
   "description": "Cross-platform messaging app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "concurrently \"cd spoutbe && npm run dev\" \"cd spout && ionic serve\" "
   },
   "author": "Emmanuel Sogelola",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^5.3.0"
+  }
 }
