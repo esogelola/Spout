@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://spout.web.app/"><img width="144px" src="https://raw.githubusercontent.com/esogelola/Spout/master/assets/SPOUT.png"></a>
     <h3 align="center">Spout</h3>
-    <p align="center">Spout is a cross-platform messaging app.<p>
+    <p align="center">Spout is a cross-platform messaging and digital distribution platform.<p>
 </p>
 
 [![Build Status](https://travis-ci.com/esogelola/Spout.svg?branch=master)](https://travis-ci.com/esogelola/Spout)
