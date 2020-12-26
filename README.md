@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://esogelola.com/" ><h2><span width="100px">:whale: </span></h2></a>
+    <a href="https://esogelola.com/" ><span width="100px">:whale: </span></a>
     <h3 align="center">Spout</h3>
     <p align="center">Spout is a cross-platform messaging app.<p>
 </p>
