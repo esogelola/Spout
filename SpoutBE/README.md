@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://spout.web.app/"><img width="144px" src="https://raw.githubusercontent.com/esogelola/Spout/master/SpoutBE/assets/SPOUTBE.png"></a>
+    <a href="https://spout.web.app/"><img width="144px" src="https://raw.githubusercontent.com/esogelola/Spout/SpoutBE/master/assets/SPOUTBE.png"></a>
     <h3 align="center">Spout Back-End</h3>
     <p align="center">Spout Back-End is the backbone of the entire messaging and digital distribution platform.<p>
 </p>
