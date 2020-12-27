@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://spout.web.app/"><img width="144px" src="https://raw.githubusercontent.com/esogelola/Spout/master/assets/SPOUT.png"></a>
+    <a href="https://spout.web.app/"><img width="400px" src="https://raw.githubusercontent.com/esogelola/Spout/master/assets/SPOUT.png"></a>
     <h3 align="center">Spout</h3>
     <p align="center">Spout is a cross-platform messaging and digital distribution platform.<p>
 </p>
