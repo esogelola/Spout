@@ -2,15 +2,38 @@
   "name": "spoutbe",
   "version": "1.0.0",
   "description": "Back-End for Spout",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Emmanuel Sogelola",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
-    "concurrently": "^5.3.0",
     "nodemon": "^2.0.6"
-  }
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.1",
+    "socket.io": "^3.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esogelola/Spout.git"
+  },
+  "keywords": [
+    "javascript",
+    "ionic",
+    "react",
+    "cross-platform",
+    "express",
+    "firebase",
+    "socketio",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/esogelola/Spout/issues"
+  },
+  "homepage": "https://github.com/esogelola/Spout#readme"
 }
