@@ -9,10 +9,8 @@
 [![LICENSE](https://img.shields.io/github/license/esogelola/spout)](https://github.com/esogelola/spout/blob/master/LICENSE)
 
 ---
+![alt text](https://raw.githubusercontent.com/esogelola/Spout/master/assets/Login.png "Test")
+![alt text](https://raw.githubusercontent.com/esogelola/Spout/master/assets/Register.png "Test")
+![alt text](https://raw.githubusercontent.com/esogelola/Spout/master/assets/Forgot.png "Test")
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/esogelola/Spout/master/assets/Login.png" width="30%" />
-   <img src="https://raw.githubusercontent.com/esogelola/Spout/master/assets/Register.png" width="30%" />
-    <img src="https://raw.githubusercontent.com/esogelola/Spout/master/assets/Forgot.png" width="30%" />
-   
-</p>
+
